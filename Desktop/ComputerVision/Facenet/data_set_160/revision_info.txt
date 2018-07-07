@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py C:\Users\Administrator\Desktop\ComputerVision\Facenet\mine\data_set C:\Users\Administrator\Desktop\ComputerVision\Facenet\mine\data_set_160 --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+--------------------
+tensorflow version: 1.8.0
+--------------------
+git hash: b'HEAD'
+--------------------
+b''
